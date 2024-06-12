@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test_main.cpp.o CMakeFiles/run_tests.dir/test_dictionary.cpp.o CMakeFiles/run_tests.dir/test_transformer.cpp.o -o run_tests  ../lib/libgtest.a ../lib/libgtest_main.a ../src/libencrypt_tool_lib.a ../lib/libgtest.a 

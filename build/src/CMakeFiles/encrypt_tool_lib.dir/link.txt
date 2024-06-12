@@ -1,0 +1,2 @@
+/usr/bin/ar qc libencrypt_tool_lib.a CMakeFiles/encrypt_tool_lib.dir/main.cpp.o CMakeFiles/encrypt_tool_lib.dir/dictionary.cpp.o CMakeFiles/encrypt_tool_lib.dir/transformer.cpp.o
+/usr/bin/ranlib libencrypt_tool_lib.a
