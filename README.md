@@ -140,4 +140,3 @@ my_encrypt_tool/
 ## Авторы
 
 Тихонов Евгений Павлович
-# My_encrypt_tool
